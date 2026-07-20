@@ -102,6 +102,22 @@ Demonstrates how operating systems protect shared resources.
 - Resource sharing visualization
 
 ---
+## 📷 Project Output:
+
+### Main Interface
+![Main Window](screenshots/main-window.png)
+
+### Priority Queue Scheduling
+![Priority Queue](screenshots/priority-queue.png)
+
+### Round Robin Scheduling
+![Round Robin](screenshots/round-robin.png)
+
+### Parallel Processing
+![Parallel Processing](screenshots/parallel-processing.png)
+
+### Seat Locking Simulation
+![Seat Locking](screenshots/seat-locking.png)
 
 ### 🖥 Interactive Graphical Interface
 
